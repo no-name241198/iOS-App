@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "メイン画面"; ObjectID = "GJF-3f-cur"; */
+"GJF-3f-cur.title" = "メイン画面";
+
+/* Class = "UIBarButtonItem"; title = "追加"; ObjectID = "IUX-pM-j9y"; */
+"IUX-pM-j9y.title" = "追加";
+
+/* Class = "UIButton"; normalTitle = "追加する"; ObjectID = "cjN-QW-bfH"; */
+"cjN-QW-bfH.normalTitle" = "追加する";
+
+/* Class = "UINavigationItem"; title = "追加画面"; ObjectID = "j5z-eD-j1s"; */
+"j5z-eD-j1s.title" = "追加画面";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "mY0-dH-Lbt"; */
+"mY0-dH-Lbt.title" = "戻る";
